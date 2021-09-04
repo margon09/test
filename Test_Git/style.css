@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid grey;
+}
+
+.wrapper h1 {
+	margin: 20px;
+	padding: 20px;
+}
